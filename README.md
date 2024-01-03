@@ -10,7 +10,7 @@ R Conger. January 2024
 e.g.  vrp_overrides = ""
 - A local Streetmap Premium network dataset. Please send me a note if you need an example of constructing a request that works with Enterprise or AGOL based service endpoints
 - Network Analyst extension for ArcGIS Pro
-- 
+  
 **What it does:**
   
 1.	Reads order and depot input data from plain text CSV files and creates input features from coordinates (Lat/Lon values).
